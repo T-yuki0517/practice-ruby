@@ -9,8 +9,8 @@ while i <= input do
   a = gets.to_i
   b = gets.to_i
   
-  puts="a=#{a}"
-  puts="b=#{b}"
+  puts "a=#{a}"
+  puts "b=#{b}"
   
   puts "a+b=#{a + b}"
   puts "a-b=#{a - b}"
